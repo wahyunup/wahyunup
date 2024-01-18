@@ -1,5 +1,4 @@
-[![MasterHead](https://media4.giphy.com/media/bnC70HkiVrZEheSeYS/giphy.gif?cid=ecf05e47v10hcmnvtle8hxmn9h1r8k2w7zbiebacpkczdliy&ep=v1_gifs_search&rid=giphy.gif&ct=g)
-cid=ecf05e47v10hcmnvtle8hxmn9h1r8k2w7zbiebacpkczdliy&ep=v1_gifs_search&rid=giphy.gif&ct=g
+![](https://drive.google.com/file/d/1M3tSodHMjvimdxBVP9qfQE-cLsIMoyKg/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Wahyu Nur Pambuko</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
