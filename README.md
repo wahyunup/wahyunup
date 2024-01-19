@@ -1,4 +1,4 @@
-![sampul github](https://github.com/wahyunup/wahyunup/assets/119754327/5c45b16c-fb8d-4f02-835c-f2b7037380e2)
+![Comp 1](https://github.com/wahyunup/wahyunup/assets/119754327/caccdcb8-a371-4675-b82d-e5556d119c31)
 <h1 align="center">Hi 👋, I'm Wahyu Nur Pambuko</h1>
 <h3 align="center">A passionate frontend developer from Indonesia</h3>
 
