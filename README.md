@@ -1,6 +1,3 @@
-<h1 align="center">Hi 👋, I'm Wahyu Nur Pambuko</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyunup&label=Profile%20views&color=0e75b6&style=flat" alt="wahyunup" /> </p>
 
 - 🌱 I’m currently learning **HTML ,CSS ,Bootstrap ,Tailwind ,JavaScript, Mysql, ReactJS, Laravel**
