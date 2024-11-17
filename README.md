@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wahyunup&label=Profile%20views&color=0e75b6&style=flat" alt="wahyunup" /> </p>
 
-- 🌱 I’m currently learning **HTML ,CSS ,Bootstrap ,Tailwind ,JavaScript, Mysql, ReactJS**
+- 🌱 I’m currently learning **HTML ,CSS ,Bootstrap ,Tailwind ,JavaScript, Mysql, ReactJS, Laravel**
 
 - 💬 Ask me about **Front End Developer**
 
